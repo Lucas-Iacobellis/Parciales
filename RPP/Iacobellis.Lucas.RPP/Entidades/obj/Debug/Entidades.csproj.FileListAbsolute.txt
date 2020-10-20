@@ -1,0 +1,16 @@
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\bin\Debug\Exepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\bin\Debug\Exepciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\obj\Debug\Entidades.csproj.CopyComplete

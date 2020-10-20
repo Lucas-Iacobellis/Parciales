@@ -1,0 +1,15 @@
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Validaciones\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Validaciones\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\obj\Debug\Validaciones.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\obj\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\obj\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\bin\Debug\Exepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\bin\Debug\Exepciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\obj\Debug\Validaciones.csproj.CopyComplete

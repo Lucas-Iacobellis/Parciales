@@ -1,0 +1,6 @@
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Excepciones\bin\Debug\Exepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Excepciones\bin\Debug\Exepciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Excepciones\obj\Debug\Exepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Excepciones\obj\Debug\Exepciones.pdb
