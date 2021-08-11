@@ -1,0 +1,51 @@
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Validaciones\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Validaciones\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\obj\Debug\Validaciones.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\obj\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\obj\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\bin\Debug\Exepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\bin\Debug\Exepciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Validaciones\obj\Debug\Validaciones.csproj.CopyComplete
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Validaciones\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Validaciones\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Validaciones\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Validaciones\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Validaciones\obj\Debug\Validaciones.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Validaciones\obj\Debug\Validaciones.csproj.CopyComplete
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Validaciones\obj\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Validaciones\obj\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Validaciones\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Validaciones\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Validaciones\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Validaciones\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Validaciones\obj\Debug\Validaciones.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Validaciones\obj\Debug\Validaciones.csproj.CopyComplete
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Validaciones\obj\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Validaciones\obj\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.csproj.CopyComplete
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\bin\Debug\Validaciones.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\bin\Debug\Validaciones.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\bin\Debug\Excepciones.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\bin\Debug\Excepciones.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.csproj.AssemblyReference.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.csproj.CopyComplete
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Validaciones\obj\Debug\Validaciones.pdb

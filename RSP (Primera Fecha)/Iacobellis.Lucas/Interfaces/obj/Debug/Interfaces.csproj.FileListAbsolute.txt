@@ -1,0 +1,30 @@
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.pdb

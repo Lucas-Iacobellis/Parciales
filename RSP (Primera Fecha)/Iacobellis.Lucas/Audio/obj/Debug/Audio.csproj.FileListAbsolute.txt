@@ -1,0 +1,48 @@
+J:\Visual UTN 2019\Examenes\20201203\Audio\bin\Debug\Audio.dll
+J:\Visual UTN 2019\Examenes\20201203\Audio\bin\Debug\Audio.pdb
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.csprojAssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Interop.WMPLib.dll
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.csproj.ResolveComReference.cache
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.dll
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\Audio\bin\Debug\Audio.dll
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\Audio\bin\Debug\Audio.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\Audio\obj\Debug\Audio.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\Audio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\Audio\obj\Debug\Audio.csproj.ResolveComReference.cache
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\Audio\obj\Debug\Audio.dll
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\Audio\obj\Debug\Audio.pdb
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\Audio\bin\Debug\Audio.dll
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\Audio\bin\Debug\Audio.pdb
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\Audio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\Audio\obj\Debug\Audio.csproj.ResolveComReference.cache
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\Audio\obj\Debug\Audio.dll
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\Audio\obj\Debug\Audio.pdb
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\Audio\obj\Debug\Audio.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\Audio\bin\Debug\Audio.dll
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\Audio\bin\Debug\Audio.pdb
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Audio.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Audio.csproj.ResolveComReference.cache
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Audio.dll
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Audio.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\bin\Debug\Audio.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\bin\Debug\Audio.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Audio.csproj.AssemblyReference.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Audio.csproj.ResolveComReference.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Audio.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Audio.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\bin\Debug\Audio.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\bin\Debug\Audio.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Audio.csproj.AssemblyReference.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Audio.csproj.ResolveComReference.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Audio.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\Audio\obj\Debug\Audio.pdb

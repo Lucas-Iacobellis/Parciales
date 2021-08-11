@@ -1,0 +1,121 @@
+I:\UTN\Ejercicios\20201203\20201203\bin\Debug\20201203.exe.config
+I:\UTN\Ejercicios\20201203\20201203\bin\Debug\20201203.exe
+I:\UTN\Ejercicios\20201203\20201203\bin\Debug\20201203.pdb
+I:\UTN\Ejercicios\20201203\20201203\bin\Debug\Entidades.dll
+I:\UTN\Ejercicios\20201203\20201203\bin\Debug\Entidades.pdb
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\20201203.csprojAssemblyReference.cache
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\_20201203.D10S.resources
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\_20201203.Properties.Resources.resources
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\20201203.csproj.GenerateResource.cache
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\20201203.csproj.CoreCompileInputs.cache
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\20201203.csproj.CopyComplete
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\20201203.exe
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\20201203.pdb
+J:\Visual UTN 2019\Examenes\20201203\20201203\bin\Debug\20201203.exe.config
+J:\Visual UTN 2019\Examenes\20201203\20201203\bin\Debug\20201203.exe
+J:\Visual UTN 2019\Examenes\20201203\20201203\bin\Debug\20201203.pdb
+J:\Visual UTN 2019\Examenes\20201203\20201203\bin\Debug\Entidades.dll
+J:\Visual UTN 2019\Examenes\20201203\20201203\bin\Debug\Entidades.pdb
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\20201203.csprojAssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\_20201203.D10S.resources
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\_20201203.Properties.Resources.resources
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\20201203.csproj.GenerateResource.cache
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\20201203.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\20201203.csproj.CopyComplete
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\20201203.exe
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\20201203.pdb
+J:\Visual UTN 2019\Examenes\20201203\20201203\bin\Debug\Audio.dll
+J:\Visual UTN 2019\Examenes\20201203\20201203\bin\Debug\Audio.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\obj\Debug\20201203.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\obj\Debug\_20201203.D10S.resources
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\obj\Debug\_20201203.Properties.Resources.resources
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\obj\Debug\20201203.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\obj\Debug\20201203.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\obj\Debug\20201203.exe
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\obj\Debug\20201203.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\bin\Debug\20201203.exe.config
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\bin\Debug\20201203.exe
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\bin\Debug\20201203.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\bin\Debug\Audio.dll
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\bin\Debug\Audio.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\obj\Debug\20201203.csproj.CopyComplete
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\bin\Debug\Extension.dll
+C:\Users\Windows\Desktop\Ejercicios C#\20201203 - alumno (2)\20201203 - alumno\20201203\bin\Debug\Extension.pdb
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\obj\Debug\20201203.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\obj\Debug\_20201203.D10S.resources
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\obj\Debug\_20201203.Properties.Resources.resources
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\obj\Debug\20201203.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\obj\Debug\20201203.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\bin\Debug\20201203.exe.config
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\bin\Debug\20201203.exe
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\bin\Debug\20201203.pdb
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\bin\Debug\Audio.dll
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\bin\Debug\Audio.pdb
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\obj\Debug\20201203.csproj.CopyComplete
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\obj\Debug\20201203.exe
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\obj\Debug\20201203.pdb
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\bin\Debug\Serializacion.dll
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\20201203 - alumno\Iacobellis.Lucas\20201203\bin\Debug\Serializacion.pdb
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\20201203.exe.config
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\20201203.exe
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\20201203.pdb
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Audio.dll
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Serializacion.dll
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Audio.pdb
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Serializacion.pdb
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\_20201203.D10S.resources
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\_20201203.Properties.Resources.resources
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.csproj.CopyComplete
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.exe
+C:\Users\Windows\Desktop\Recuperatorio Segundo Parcial (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\20201203.exe.config
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\20201203.exe
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\20201203.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Audio.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Entidades.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Interfaces.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Serializacion.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Audio.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Entidades.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Interfaces.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Serializacion.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.csproj.AssemblyReference.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\_20201203.D10S.resources
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\_20201203.Properties.Resources.resources
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.csproj.GenerateResource.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.csproj.CopyComplete
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.exe
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (Otros Ejercicios)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\20201203.exe.config
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\20201203.exe
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\20201203.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Audio.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Entidades.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Interfaces.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Serializacion.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Audio.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Entidades.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Interfaces.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\bin\Debug\Serializacion.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.csproj.AssemblyReference.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\_20201203.D10S.resources
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\_20201203.Properties.Resources.resources
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.csproj.GenerateResource.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.csproj.CopyComplete
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.exe
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\RSP (Primera Fecha)\Iacobellis.Lucas\20201203\obj\Debug\20201203.pdb

@@ -1,0 +1,104 @@
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Interfaces\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Interfaces\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Interfaces\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Interfaces\bin\Debug\Exepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Interfaces\bin\Debug\Exepciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Interfaces\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Guada\Documents\Clases\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Guada\Documents\Clases\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Guada\Documents\Clases\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Entidades.dll
+C:\Users\Guada\Documents\Clases\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Validaciones.dll
+C:\Users\Guada\Documents\Clases\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Excepciones.dll
+C:\Users\Guada\Documents\Clases\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Clases\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Validaciones.pdb
+C:\Users\Guada\Documents\Clases\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Excepciones.pdb
+C:\Users\Guada\Documents\Clases\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Guada\Documents\Clases\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Documents\Clases\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\Guada\Documents\Clases\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Guada\Documents\Clases\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\SegundoParcialDomingo\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Entidades.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Validaciones.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Excepciones.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Validaciones.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\bin\Debug\Excepciones.pdb
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Lucas\Facultad\Programacion II y Laboratorio II (De Todo Un Poco)\Laboratorio II\Parciales\SP (Hilos)\Segundo Parcial\SP\Iacobellis.Lucas\Interfaces\obj\Debug\Interfaces.pdb
