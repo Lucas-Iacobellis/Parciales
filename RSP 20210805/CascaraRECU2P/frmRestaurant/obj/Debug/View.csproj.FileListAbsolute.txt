@@ -1,0 +1,13 @@
+C:\Users\juanp\Desktop\RSP-RESTAURANT.RESUELTO\frmRestaurant\bin\Debug\frmRestaurant.exe.config
+C:\Users\juanp\Desktop\RSP-RESTAURANT.RESUELTO\frmRestaurant\bin\Debug\frmRestaurant.exe
+C:\Users\juanp\Desktop\RSP-RESTAURANT.RESUELTO\frmRestaurant\bin\Debug\frmRestaurant.pdb
+C:\Users\juanp\Desktop\RSP-RESTAURANT.RESUELTO\frmRestaurant\bin\Debug\Entidades.dll
+C:\Users\juanp\Desktop\RSP-RESTAURANT.RESUELTO\frmRestaurant\bin\Debug\Entidades.pdb
+C:\Users\juanp\Desktop\RSP-RESTAURANT.RESUELTO\frmRestaurant\obj\Debug\View.csproj.AssemblyReference.cache
+C:\Users\juanp\Desktop\RSP-RESTAURANT.RESUELTO\frmRestaurant\obj\Debug\frmRestaurant.FrmRestaurant.resources
+C:\Users\juanp\Desktop\RSP-RESTAURANT.RESUELTO\frmRestaurant\obj\Debug\frmRestaurant.Properties.Resources.resources
+C:\Users\juanp\Desktop\RSP-RESTAURANT.RESUELTO\frmRestaurant\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\juanp\Desktop\RSP-RESTAURANT.RESUELTO\frmRestaurant\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Desktop\RSP-RESTAURANT.RESUELTO\frmRestaurant\obj\Debug\View.csproj.CopyComplete
+C:\Users\juanp\Desktop\RSP-RESTAURANT.RESUELTO\frmRestaurant\obj\Debug\frmRestaurant.exe
+C:\Users\juanp\Desktop\RSP-RESTAURANT.RESUELTO\frmRestaurant\obj\Debug\frmRestaurant.pdb
