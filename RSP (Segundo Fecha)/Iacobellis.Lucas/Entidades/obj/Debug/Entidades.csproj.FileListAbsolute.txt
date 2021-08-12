@@ -1,9 +1,0 @@
-C:\Users\Lucas\Desktop\Iacobellis.Lucas\Entidades\bin\Debug\Entidades.dll
-C:\Users\Lucas\Desktop\Iacobellis.Lucas\Entidades\bin\Debug\Entidades.pdb
-C:\Users\Lucas\Desktop\Iacobellis.Lucas\Entidades\bin\Debug\SerializacionXML.dll
-C:\Users\Lucas\Desktop\Iacobellis.Lucas\Entidades\bin\Debug\SerializacionXML.pdb
-C:\Users\Lucas\Desktop\Iacobellis.Lucas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
-C:\Users\Lucas\Desktop\Iacobellis.Lucas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\Lucas\Desktop\Iacobellis.Lucas\Entidades\obj\Debug\Entidades.csproj.CopyComplete
-C:\Users\Lucas\Desktop\Iacobellis.Lucas\Entidades\obj\Debug\Entidades.dll
-C:\Users\Lucas\Desktop\Iacobellis.Lucas\Entidades\obj\Debug\Entidades.pdb

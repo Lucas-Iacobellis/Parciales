@@ -1,0 +1,40 @@
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\Entidades.dll
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\SerializacionXML.dll
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\Entidades.pdb
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\bin\Debug\SerializacionXML.pdb
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\obj\Debug\TestUnitario.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\obj\Debug\TestUnitario.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\obj\Debug\TestUnitario.csproj.CopyComplete
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\Lucas\Desktop\Iacobellis.Lucas\TestUnitario\obj\Debug\TestUnitario.pdb
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\bin\Debug\Entidades.dll
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\bin\Debug\Entidades.pdb
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\obj\Debug\TestUnitario.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\obj\Debug\TestUnitario.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\obj\Debug\TestUnitario.csproj.CopyComplete
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\Lucas\Desktop\RSP (Segunda Fecha)\Iacobellis.Lucas\TestUnitario\obj\Debug\TestUnitario.pdb
